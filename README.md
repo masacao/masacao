@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masacao
 - 👀 I’m interested in AI & web3
-- 📫 Reach me at my homepage: [https://www.caoz.top]
+- 📫 Reach me at my homepage: https://www.caoz.top
 
 <!---
 masacao/masacao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
